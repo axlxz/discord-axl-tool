@@ -1,13 +1,12 @@
 # Discord AXL Tool
 
-Free Open Source Discord tool
+Free open-source Discord tool.
 
 ## Features
 - Check Tokens
-- Logs 
+- Logs
 - Tool Configurations
-- More Feautures (soon...)
-
+- More features (coming soon...)
 
 ## Installation
 
@@ -20,8 +19,8 @@ Free Open Source Discord tool
     ```bash
     pip install -r requirements.txt
     ```
+
 ## Run Script
 
-    ```bash
-    python main.py
-    ```
+```bash
+python main.py
