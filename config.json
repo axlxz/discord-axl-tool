@@ -1,0 +1,12 @@
+{
+    "logs_error": true,
+    "save_sucess": true,
+    "save_fail": true,
+    "save_error": true,
+    "show_hits_menu": true,
+    "type_token_list": {
+        "token_email_pass": false,
+        "token_pass": false,
+        "token": true
+    }
+}
